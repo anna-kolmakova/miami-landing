@@ -1,4 +1,6 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Landing Miami creaded using technologies: HTML, CSS, BEM, SASS preprocessors.
+
+This landing is adaptive to different screens, created with mobite first design. 
+It has a stylish adaptive design, contains burger menu, links and a form to fill.
+
+Here you can find [DEMO LINK](https://anna-kolmakova.github.io/miami-landing/)
